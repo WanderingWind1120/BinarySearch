@@ -1,1 +1,2 @@
 # BinarySearch
+BinarySearch Algorithm
