@@ -24,7 +24,7 @@ public class Main {
             middle = (int) low + (high - low)/2;
             int temp = array[middle];
             if(temp < data){
-                low = middle;
+                low = middle+1;
             }
             else if (temp > data){
                 high = middle-1;
